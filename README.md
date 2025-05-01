@@ -52,11 +52,12 @@ It extracts relevant data from uploaded passport and vehicle registration docume
 
 ```
 project/
-├── telegram_bot.py          # main bot logic
+├── telegram_bot.py          # Main bot logic
 ├── mindee_doc_model.py      # OCR and entity extraction
 ├── bot_AI.py                # AI-generated replies and policy
 ├── keyboards.py             # inline buttons for interaction
 ├── bot_config.py            # API keys (not in version control)
+├── price_calculation.py     # API for insurance price calculation
 └── requirements.txt         # Python dependencies
 ```
 
@@ -69,3 +70,4 @@ project/
 5. Bot calculates policy price and proposes insurance options
 
 ---
+
