@@ -71,3 +71,8 @@ project/
 
 ---
 
+## Video example
+#### First 60 seconds
+![My GIF](./insurance1.gif)
+#### Second 60 seconds
+![My GIF](./insurance2.gif)
