@@ -72,7 +72,5 @@ project/
 ---
 
 ## Video example
-#### First 60 seconds
+#### 📹 [Video demonstration](https://drive.google.com/file/d/1T_78Ozl46Z-fVGDFCNBckmZPClb3XZZG/view?usp=drive_link)
 ![My GIF](./insurance1.gif)
-#### Second 60 seconds
-![My GIF](./insurance2.gif)
